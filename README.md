@@ -18,3 +18,4 @@ This repository contains a minimal, ready-to-deploy skeleton for:
 - `.env.example` — required env vars
 - `deploy-instructions.md` — step-by-step deployment guide
 
+# WAConnect
